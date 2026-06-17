@@ -45,4 +45,7 @@ Colors and Soft Toys were among the top-performing categories.
 Certain cities contributed significantly to total orders.
 Revenue showed strong spikes during festive seasons.
 
+<img width="1101" height="486" alt="FNP Snipshot" src="https://github.com/user-attachments/assets/b18daf50-c348-4aed-a597-f5bd41fa151f" />
+
+
 
